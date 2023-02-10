@@ -1,6 +1,6 @@
 package com.csalazar.springcloud.msvc.cursos.services;
 
-import com.csalazar.springcloud.msvc.cursos.entity.Curso;
+import com.csalazar.springcloud.msvc.cursos.models.entity.Curso;
 import com.csalazar.springcloud.msvc.cursos.repositories.CursoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
